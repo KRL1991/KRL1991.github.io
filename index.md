@@ -1,8 +1,15 @@
 #_Living is learning_
 
 ##Thank you for dropping by my Github page.
-My name is Kim and I am from Denmark. I am 28 years old and I live by myself in a town called Næstved.
+My name is Kim and I am from Denmark.
+
+I am 28 years old and I live by myself in a town called Næstved.
+
+
 I enjoy working with computers and i enjoy memes
+
+[C:\Users\kimov\Desktop]
+
 
 
 
