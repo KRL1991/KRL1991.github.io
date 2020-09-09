@@ -1,6 +1,6 @@
-#<_Living is learning_>
+#_Living is learning_
 
-##<Thank you for dropping by my Github page>
+##Thank you for dropping by my Github page
 
 
 My name is Kim and I am from Denmark.
@@ -21,7 +21,7 @@ I enjoy working with computers and i enjoy funny _memes_
 I will try to update this page as I learn more about programming and coding.
 
 
-###<Below is an example of a simple program we have written in the class:>
+###Below is an example of a simple program we have written in the class:
 ```markdown
 public class Hello {
     public static void main(String[] args) {
